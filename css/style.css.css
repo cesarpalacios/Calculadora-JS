@@ -20,6 +20,10 @@
 	text-align: right;;
 }
 
+.contenedor{
+	text-align: center !important;
+}
+
 .row input{
 	width: 23%;
 	color: white;
